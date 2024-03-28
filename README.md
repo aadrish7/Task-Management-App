@@ -24,12 +24,15 @@ To get a local copy of this project and run it on your machine, follow these ste
    ```bash
    git clone https://github.com/aadrish7/Task-Management-App.git
 2. Navigate to the cloned repository:
+    ```bash
    cd Task-Management-App
 3. Set up the frontend:
+    ```bash
    cd frontend
    npm install
    npm start
 4. Set up the backend:
+    ```bash
    cd backend
    npm install
    node index.js
