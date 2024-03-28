@@ -15,3 +15,22 @@ Task-Management-App is a simple web application for managing tasks. It allows us
 - **Backend:** Node.js, Express.js
 - **Database:** SQLite
 - **Styling:** CSS
+
+## Getting Started
+
+To get a local copy of this project and run it on your machine, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/aadrish7/Task-Management-App.git
+2. Navigate to the cloned repository:
+   cd Task-Management-App
+3. Set up the frontend:
+   cd frontend
+   npm install
+   npm start
+4. Set up the backend:
+   cd backend
+   npm install
+   node index.js
+
